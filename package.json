@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-default-parameters",
+  "version": "1.0.0",
+  "author": "Kaj Pesiö <15047180+KajPe@users.noreply.github.com>",
+  "description": "Various data importers for Insomnia",
+  "license": "MIT",
+  "repository": "https://github.com/KajPe/insomnia-plugin-default-parameters",
+  "main": "index.js",
+  "insomnia": {
+    "name": "default-parameters",
+    "description": "Add default parameters to requests"
+  }
+}
